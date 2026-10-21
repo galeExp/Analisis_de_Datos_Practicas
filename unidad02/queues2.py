@@ -1,5 +1,5 @@
 from collections import deque 
-import time 
+ 
 cola_reproduccion=deque()
 #EL USUARIO AGREGA CANCIONES 
 cola_reproduccion.append("1.antologia")
